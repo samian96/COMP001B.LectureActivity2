@@ -1,5 +1,7 @@
 header {
     background-color: grey; /*changes the background to grey for header element*/
+    padding: 5px; /*adjusts the total height of header element*/
+    margin: 10px; /*adjusts the space around the element*/
 }
 p {
     background-color: blueviolet; /*Changes background to purple for p element*/
