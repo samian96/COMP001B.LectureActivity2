@@ -1,6 +1,6 @@
 header {
-    background-color: grey;
+    background-color: grey; /*changes the background to grey for header element*/
 }
 p {
-    background-color: blueviolet;
+    background-color: blueviolet; /*Changes background to purple for p element*/
 }
