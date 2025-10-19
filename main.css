@@ -6,5 +6,7 @@ header {
 p {
     background-color: rgb(194, 137, 247); /*Changes background to purple for p element*/
     border: 2px solid rgb(250, 133, 0); /*adds border to p element solid color orange*/
-    margin-right: 500px; /*Sets the max width of the p element to 500px*/
+}
+.class1 {
+    margin-right: 500px; /*adjust the max width for elements with class attribute*/
 }
