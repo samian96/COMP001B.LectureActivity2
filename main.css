@@ -6,7 +6,13 @@ header {
 p {
     background-color: rgb(194, 137, 247); /*Changes background to purple for p element*/
     border: 2px solid rgb(250, 133, 0); /*adds border to p element solid color orange*/
+    width: 400px;
 }
 .class1 {
-    margin-right: 500px; /*adjust the max width for elements with class attribute*/
+    width: 500px; /*Adjust the max width of tags with class1 element*/
+}
+.class2 {
+    margin-left: 500px; /*adjust the max width to the left for elements with class2 attribute*/
+    margin-right: 500px; /*adjust the max width to the right for elements with class2 attribute*/
+    text-align: center; /*centers text inside elements with class2 attribute*/
 }
